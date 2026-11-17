@@ -25,7 +25,7 @@ The objective is to understand user preferences, viewing patterns, and OTT platf
 *Personal information, including email addresses, has been excluded from the publicly shared dataset.*
 
 ## Tools Used
-
+- Power BI Desktop (.pbix) – Interactive dashboard development
 - Google Forms – Data collection
 - Microsoft Excel – Dataset handling
 - Microsoft Power BI – Data analysis and visualization
